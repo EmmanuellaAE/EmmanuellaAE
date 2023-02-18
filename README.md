@@ -3,6 +3,7 @@
 - 🌱 I’m currently pursuing an associate degree in data analytics
 - 💞️ I’m looking to intern and be mentored in Data analytics/programming
 - 📫 How to reach me - azumaraella@gmail.com
+- This is my tableau - https://public.tableau.com/app/profile/azumara.emmanuella
 
 <!---
 EmmanuellaAE/EmmanuellaAE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
