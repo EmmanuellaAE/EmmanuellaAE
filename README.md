@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Emmanuella Azumara
-- 👀 I’m interested in data analysis, programming, reading, movies, food, language, and culture
-- 🌱 I’m currently pursuing an associate in data analytics
-- 💞️ I’m looking to work and be mentored in Data analytics/programming
+- 👋 Hi, I’m @Emmanuella Azumara.
+- 👀 I’m interested in data analysis, humanities, reading, movies, food, language, and culture.
+- I hold an associate degree in Data Analytics.
+- 🌱 I’m currently pursuing a bachelors in sociology.
 - 📫 How to reach me - azumaraella@gmail.com
 - This is my tableau - https://public.tableau.com/app/profile/azumara.emmanuella
 
