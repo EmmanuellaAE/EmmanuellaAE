@@ -4,6 +4,7 @@
 - 🌱 I’m currently pursuing a bachelors in sociology.
 - 📫 How to reach me - azumaraella@gmail.com
 - This is my tableau - https://public.tableau.com/app/profile/azumara.emmanuella
+- This is my blog reflecting on Research methods - https://azumaraella.wixsite.com/emmanuella-azumara
 
 <!---
 EmmanuellaAE/EmmanuellaAE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
